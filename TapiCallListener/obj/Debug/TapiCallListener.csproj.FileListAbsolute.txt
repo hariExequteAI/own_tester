@@ -1,0 +1,27 @@
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\bin\Debug\TapiCallListener.exe.config
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\bin\Debug\TapiCallListener.exe
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\bin\Debug\TapiCallListener.pdb
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\bin\Debug\Interop.TAPI3Lib.dll
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.AssemblyReference.cache
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\Interop.TAPI3Lib.dll
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.ResolveComReference.cache
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.Form1.resources
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.Properties.Resources.resources
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.GenerateResource.cache
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.CoreCompileInputs.cache
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.exe
+C:\Users\haric\source\repos\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.pdb
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\bin\Debug\TapiCallListener.exe.config
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\bin\Debug\TapiCallListener.exe
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\bin\Debug\TapiCallListener.pdb
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\bin\Debug\Interop.TAPI3Lib.dll
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.exe.config
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\Interop.TAPI3Lib.dll
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.Form1.resources
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.Properties.Resources.resources
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.exe
+C:\Users\Administrator\Downloads\backup_dubai-main (1)\backup_dubai-main\TapiCallListener\TapiCallListener\obj\Debug\TapiCallListener.pdb
